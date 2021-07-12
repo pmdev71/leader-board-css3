@@ -1,9 +1,9 @@
 /* fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 /* common styles */
-head{
+body{
     font-family: 'Poppins', sans-serif;
-    background-color:#F3F1FF;
+    background-color: #F3F1FF;
 }
 main{
     display: flex;
@@ -12,7 +12,7 @@ main{
     align-items: center;
 }
 .container{
-    background-color: lemonchiffon;
+    background-color: #FFFFFF;
     width: 870px;
     padding: 30px;
     border-radius: 5px;
@@ -114,7 +114,7 @@ hr{
 .course-duration{
     background-color: #FEE5DF;
     color: #ED6B4F;
-    border-radius: 14px;
+    border-radius: 10px;
 }
 
 /* Media Queries */
